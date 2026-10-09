@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: If you use ResOPD, please cite our arXiv paper (2610.04882).
+type: software
+title: 'ResOPD: Tail Residualization for Sparse On-Policy Distillation'
+authors:
+- family-names: Yang
+  given-names: Penghui
+- family-names: Xing
+  given-names: Long
+- family-names: Dai
+  given-names: Xuanlang
+- family-names: Liu
+  given-names: Ziyu
+- family-names: Chen
+  given-names: Kai
+- family-names: Zang
+  given-names: Yuhang
+repository-code: https://github.com/InternLM/ResOPD
+license: Apache-2.0
+url: https://arxiv.org/abs/2610.04882
+preferred-citation:
+  type: article
+  title: 'ResOPD: Tail Residualization for Sparse On-Policy Distillation'
+  authors:
+  - family-names: Yang
+    given-names: Penghui
+  - family-names: Xing
+    given-names: Long
+  - family-names: Dai
+    given-names: Xuanlang
+  - family-names: Liu
+    given-names: Ziyu
+  - family-names: Chen
+    given-names: Kai
+  - family-names: Zang
+    given-names: Yuhang
+  year: 2026
+  journal: arXiv
+  url: https://arxiv.org/abs/2610.04882
+  identifiers:
+  - type: other
+    value: arXiv:2610.04882
